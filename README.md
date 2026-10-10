@@ -2,7 +2,7 @@
 
 Thirteen custom Claude Code subagents in three teams, designed so each step can catch the mistakes of the one before it. These are the real prompt files with private details removed. Part of Kendall Clark's portfolio.
 
-Case study: https://kendallclark.design/case-study-agent-teams
+Case study: https://kendallclarkdesign.github.io/portfolio/case-study-agent-teams
 
 | Team | Agents | Job |
 | --- | --- | --- |
